@@ -1,0 +1,3 @@
+[submodule "URL Shortener Microservice"]
+	path = URL Shortener Microservice
+	url = https://github.com/freeCodeCamp/boilerplate-project-urlshortener.git
